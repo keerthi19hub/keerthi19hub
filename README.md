@@ -1,146 +1,208 @@
 <div align="center">
 
-# Hi, I'm Keerthi N 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:06B6D4&height=220&section=header&text=KEERTHI%20N&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-**AI/ML Engineer · Full-Stack Developer · Generative AI & Agentic Systems**
+<a href="https://github.com/keerthi19hub">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+Into+Working+Projects;Learning.+Building.+Improving." alt="Typing animation" />
+</a>
 
-*Bachelor of Computer Applications (BCA) · Alliance University, Bengaluru*
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-keerthi19hub.github.io-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keerthi19hub.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-keerthi19032005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthi19032005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-keerthi19hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthi19hub)
-
-![Profile Views](https://komarev.com/ghpvc/?username=keerthi19hub&color=brightgreen&style=flat-square&label=Profile+Views)
+<a href="https://github.com/keerthi19hub">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:keerthi19032005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-0E7490?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-I am a computer science graduate from **Alliance University** specialising in **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Software Development**.
+I'm **Keerthi N**, a BCA student at Alliance University, Bengaluru, passionate about Artificial Intelligence, Machine Learning, Generative AI, and software development.
 
-I bridge theoretical machine learning with real-world, production-grade software — building end-to-end full-stack web applications, autonomous **Agentic AI** systems with dual-LLM architectures, advanced **computer vision and generative deep learning** models (CNNs, DCGANs, VAEs, GPT-2), and data-driven **business intelligence** dashboards.
+I enjoy exploring new technologies and building practical projects that connect intelligent systems with real-world applications.
 
-- 🔭 **Currently Building:** Generative AI & Agentic workflow applications using local LLMs (Ollama) and cloud APIs (Google Gemini)
-- 💡 **Core Interests:** ML Pipelines · Agentic Systems · Full-Stack Architecture (FastAPI/Flask + TypeScript/React) · Statistical Data Science
-- 🌱 **Expanding Into:** Cloud deployment patterns · Containerised microservices with Docker · Scalable database optimisation
-- 📫 **Reach me at:** [keerthi19032005@gmail.com](mailto:keerthi19032005@gmail.com)
+- 🤖 Exploring Generative AI, LLMs, and agentic workflows.
+- 🧠 Building machine learning and deep learning projects.
+- 💻 Developing applications with Python and modern web technologies.
+- 📊 Exploring data analytics, statistical modelling, and Power BI.
+- 🌱 Continuously learning through hands-on projects and experimentation.
+- 🤝 Interested in collaborating on meaningful software and AI projects.
+
+> *Curiosity drives the learning. Building turns it into impact.*
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI / ML / GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-black?style=flat-square)
-![Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
-### Web & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### AI / Machine Learning
 
-### Data & BI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+### Web Development & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,nodejs" />
+
+### Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,docker,vscode" />
+
+</div>
+
+**Data & Analytics:** Pandas · NumPy · Scikit-learn · Power BI · DAX · Statistical Analysis
+
+**AI Ecosystem:** Hugging Face · Google Gemini API · Ollama · Generative AI · NLP
 
 ---
 
 ## 🚀 Featured Projects
 
-| # | Project | Stack | What it does |
-|---|---------|-------|-------------|
-| 🏆 | [**PricePilot**](https://github.com/keerthi19hub/Pricepilot) | FastAPI · Next.js · Docker | Smart e-commerce price intelligence & tracking platform |
-| 🤖 | [**Agentic AI Study Planner**](https://github.com/keerthi19hub/Agentic_AI_Project) | Gemini API · Ollama · Flask | Autonomous student scheduling agent with dual-LLM engine |
-| 🔍 | [**GitHub Code Explainer**](https://github.com/keerthi19hub/GITHUB-CODE-EXPLAINER) | Streamlit · Ollama · LangChain | Privacy-first GenAI tool to explain any codebase offline |
-| 🎨 | [**Generative AI Lab**](https://github.com/keerthi19hub/Generative_Ai) | PyTorch · TensorFlow · HuggingFace | 11 GenAI models: DCGAN, StyleGAN2, VAE, GPT-2, NST |
-| 🏥 | [**Stroke Risk Analysis**](https://github.com/keerthi19hub/Stroke-Risk-Analysis-SDS-) | Scikit-Learn · Pandas · Seaborn | ML pipeline for stroke prediction with ROC-AUC evaluation |
-| 🎟️ | [**QueueLess**](https://github.com/keerthi19hub/queueless-smart-queue) | Flask · SQLite · Render | Smart queue & token management system with RBAC |
-| 📊 | [**World Happiness Dashboard**](https://github.com/keerthi19hub/World-Happiness-Report) | Power BI · DAX | Interactive BI dashboard on global happiness econometrics |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏆 PricePilot
 
-## 📊 GitHub Stats
+A smart e-commerce price intelligence and tracking platform.
+
+**Stack:** FastAPI · Next.js · Docker
+
+<a href="https://github.com/keerthi19hub/Pricepilot">Explore Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Agentic AI Study Planner
+
+An AI-powered study planning application exploring intelligent workflows and LLM integration.
+
+**Stack:** Python · Flask · Gemini API · Ollama
+
+<a href="https://github.com/keerthi19hub/Agentic_AI_Project">Explore Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 GitHub Code Explainer
+
+An AI-assisted tool for understanding source code and exploring codebases.
+
+**Stack:** Python · Streamlit · Generative AI
+
+<a href="https://github.com/keerthi19hub/GITHUB-CODE-EXPLAINER">Explore Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Generative AI Lab
+
+A collection of generative deep learning experiments involving GANs, VAEs, GPT-2, and neural style transfer.
+
+**Stack:** PyTorch · TensorFlow · Hugging Face
+
+<a href="https://github.com/keerthi19hub/Generative_Ai">Explore Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Stroke Risk Analysis
+
+A machine learning project focused on health data analysis and stroke-risk prediction.
+
+**Stack:** Python · Pandas · Scikit-learn
+
+<a href="https://github.com/keerthi19hub/Stroke-Risk-Analysis-SDS-">Explore Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎟️ QueueLess
+
+A smart queue and token management system designed to organise service workflows.
+
+**Stack:** Python · Flask · SQLite
+
+<a href="https://github.com/keerthi19hub/queueless-smart-queue">Explore Repository →</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keerthi19hub&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Keerthi's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthi19hub&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<a href="https://github.com/keerthi19hub?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=keerthi19hub&theme=github-dark-blue&hide_border=true)](https://github.com/keerthi19hub)
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=keerthi19hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthi19hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=keerthi19hub&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 📂 Repository Index
-
-<details>
-<summary><b>📁 Click to expand — full directory by specialisation</b></summary>
-
-| Domain | Repositories | Primary Stack |
-| :--- | :--- | :--- |
-| **AI / GenAI & Agentic** | [`Pricepilot`](https://github.com/keerthi19hub/Pricepilot) · [`Agentic_AI_Project`](https://github.com/keerthi19hub/Agentic_AI_Project) · [`GITHUB-CODE-EXPLAINER`](https://github.com/keerthi19hub/GITHUB-CODE-EXPLAINER) · [`Generative_Ai`](https://github.com/keerthi19hub/Generative_Ai) | Python · Ollama · Gemini API · FastAPI · Streamlit |
-| **Deep Learning & ML** | [`Deep_Learning`](https://github.com/keerthi19hub/Deep_Learning) · [`Stroke-Risk-Analysis-SDS-`](https://github.com/keerthi19hub/Stroke-Risk-Analysis-SDS-) · [`PIIMA-Indians-Diabetes`](https://github.com/keerthi19hub/PIIMA-Indians-Diabetes) · [`Synthetic-Insurance-Dataset...`](https://github.com/keerthi19hub/Synthetic-Insurance-Dataset-based-on-real-world-statistics-IDS-) | Python · PyTorch · Scikit-Learn · Jupyter |
-| **Web & Software Eng.** | [`queueless-smart-queue`](https://github.com/keerthi19hub/queueless-smart-queue) · [`keerthi19hub.github.io`](https://github.com/keerthi19hub/keerthi19hub.github.io) · [`FSD_Keerthi.N`](https://github.com/keerthi19hub/FSD_Keerthi.N) | Python · Flask · TypeScript · HTML5/CSS3 |
-| **OOP / Java** | [`Random_Guessing_Game`](https://github.com/keerthi19hub/Random_Guessing_Game) · [`KeerthiN_Blackjack`](https://github.com/keerthi19hub/KeerthiN_Blackjack) · [`gis-java`](https://github.com/keerthi19hub/gis-java) · [`cardgame-repo`](https://github.com/keerthi19hub/cardgame-repo) | Java (OOP · Inheritance · Polymorphism) |
-| **Data Analytics & BI** | [`World-Happiness-Report`](https://github.com/keerthi19hub/World-Happiness-Report) · [`Business-Analytics`](https://github.com/keerthi19hub/Business-Analytics) · [`Ecommerce_Dashboard_Assignment`](https://github.com/keerthi19hub/Ecommerce_Dashboard_Assignment) | Power BI · DAX · Statistical Analysis |
-| **DSA & Practice** | [`Data-Structure-using-python`](https://github.com/keerthi19hub/Data-Structure-using-python) · [`Hackerrank`](https://github.com/keerthi19hub/Hackerrank) · [`Data-Science`](https://github.com/keerthi19hub/Data-Science) | Python · DSA (Stacks · Queues · Trees) |
-
-</details>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Key Subjects |
-|--------|------------|--------------|
-| **BCA — Computer Applications** | Alliance University, Bengaluru | Data Structures & Algorithms · OOP (Java & Python) · DBMS · Machine Learning & Deep Learning · Data Warehousing & Mining · Business Analytics · Web Technologies |
-| **Pre-University (Science / PCMC)** | Narayana PU College | Physics · Chemistry · Mathematics · Computer Science |
-
----
-
-## 📫 Let's Connect
+## 🐍 Contribution Journey
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-keerthi19hub.github.io-2ea44f?style=for-the-badge)](https://keerthi19hub.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-keerthi19032005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthi19032005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-keerthi19hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthi19hub)
+<img src="https://raw.githubusercontent.com/keerthi19hub/keerthi19hub/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
 
 </div>
 
 ---
 
+## 🎯 Current Focus
+
+- Building practical AI-powered applications.
+- Exploring agentic systems and local LLMs.
+- Strengthening problem-solving and software development fundamentals.
+- Improving project documentation, deployment, and code quality.
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-  <sub>© 2026 Keerthi N · Built with precision and attention to software craftsmanship.</sub>
+
+<a href="https://github.com/keerthi19hub">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:keerthi19032005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!** ✨
+
+*Always learning. Always building. Always moving forward.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0B1020&height=110&section=footer" width="100%" />
+
 </div>
