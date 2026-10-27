@@ -17,7 +17,7 @@
 <a href="https://leetcode.com/u/Keerthi_Reddy_N/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-<a href="https://www.hackerrank.com/profile/nkeerthireddy19">
+<a href="https://www.hackerrank.com/profile/keerthi19032005">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 
@@ -255,7 +255,7 @@ I'm always interested in learning, collaborating on meaningful projects, and con
 <a href="https://leetcode.com/u/Keerthi_Reddy_N/">
   <img src="https://img.shields.io/badge/LeetCode-My%20Coding%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-<a href="https://www.hackerrank.com/profile/nkeerthireddy19">
+<a href="https://www.hackerrank.com/profile/keerthi19032005">
   <img src="https://img.shields.io/badge/HackerRank-My%20Skills-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 
